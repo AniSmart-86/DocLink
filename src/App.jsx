@@ -15,9 +15,10 @@ import Appointment from './pages/Appointment'
 function App() {
 
   return (
-    <>
-    <div className="mx-4 sm:mx-[10%]">
+   
+    <div>
       <Navbar />
+    <div className="mx-5 pt-24 sm:mx-[10%]">
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/doctors' element={<Doctors />} />
@@ -31,7 +32,7 @@ function App() {
       </Routes>
       <Footer />
     </div>
-    </>
+    </div>
   )
 }
 

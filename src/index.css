@@ -7,11 +7,22 @@
 
 *{
   font-family: Outfit;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
+
+
 .active hr{
   display: block;
 }
 
 ::-webkit-scrollbar{
   @apply hidden
+}
+
+@media (max-width:720px){
+  .active hr{
+    display: block;
+  }
 }

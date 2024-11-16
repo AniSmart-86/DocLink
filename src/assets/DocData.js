@@ -5,26 +5,26 @@ import img4 from './Gynecologist.jpg'
 import img5 from './Neurologist.jpg'
 import img6 from './Pediatricians.jpg'
 
-import doc1 from './file (2) 1.jpg'
-import doc2 from './file (2) 2.png'
-import doc3 from './file (2) 3.png'
-import doc4 from './file (3) 1.png'
-import doc5 from './file (3) 2.png'
-import doc6 from './file (3) 3.png'
-import doc7 from './file (4) 1.png'
-import doc8 from './file (4) 2.png'
-import doc9 from './file (4) 3.png'
-import doc10 from './file (4) 4 (1).png'
-import doc11 from './file (5) 1.png'
-import doc12 from './file (5) 2.png'
-import doc13 from './file (5) 3.png'
-import doc14 from './file (5) 4.png'
-import doc15 from './image 388.png'
-import doc16 from './image 419.png'
-import doc17 from './file (2) 1.jpg'
-import doc18 from './file (2) 1.jpg'
-import doc19 from './file (2) 1.jpg'
-import doc20 from './file (2) 1.jpg'
+import doc1 from './doc1.jpeg'
+import doc2 from './doc2.jpeg'
+import doc3 from './doc3.jpeg'
+import doc4 from './doc4.jpeg'
+import doc5 from './doc5.jpeg'
+import doc6 from './doc6.jpeg'
+import doc7 from './doc7.jpeg'
+import doc8 from './doc8.jpeg'
+import doc9 from './doc9.jpeg'
+import doc10 from './doc10.jpeg'
+import doc11 from './doc11.jpeg'
+import doc12 from './doc12.jpeg'
+import doc13 from './doc13.jpeg'
+import doc14 from './doc14.jpeg'
+import doc15 from './doc15.jpeg'
+import doc16 from './doc16.jpeg'
+import doc17 from './doc17.jpeg'
+import doc18 from './doc18.jpeg'
+import doc19 from './doc19.jpeg'
+import doc20 from './doc20.jpeg'
 
 
 
@@ -63,9 +63,9 @@ export const specialityData = [
 export const doctors = [
     {
         _id: 'doc1',
-        name: "Dr. Richard James",
+        name: ". Dr. Nneoma Okoro (Nigeria) ",
         img: doc1,
-        speciality: 'General physician',
+        speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -77,9 +77,9 @@ export const doctors = [
     },
     {
         _id: 'doc2',
-        name: "Dr. Richard James",
+        name: "Dr. Arikana Chihombori-Quao (Zimbabwe)",
         img: doc2,
-        speciality: 'General physician',
+        speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -91,9 +91,9 @@ export const doctors = [
     },
     {
         _id: 'doc3',
-        name: "Dr. Richard James",
+        name: "Dr. Okwesilieze Nwodo (Nigeria)",
         img: doc3,
-        speciality: 'General physician',
+        speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -105,9 +105,9 @@ export const doctors = [
     },
     {
         _id: 'doc4',
-        name: "Dr. Richard James",
+        name: "Dr. Tunji Funsho (Nigeria)",
         img: doc4,
-        speciality: 'General physician',
+        speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -119,9 +119,9 @@ export const doctors = [
     },
     {
         _id: 'doc5',
-        name: "Dr. Richard James",
+        name: " Dr. Khadija Abdalla Bajaber (Somalia)",
         img: doc5,
-        speciality: 'General physician',
+        speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -133,7 +133,7 @@ export const doctors = [
     },
     {
         _id: 'doc6',
-        name: "Dr. Richard James",
+        name: " Dr. Aisha Jumai (Nigeria) ",
         img: doc6,
         speciality: 'Pediatricians',
         degree: 'MBBS',
@@ -147,7 +147,7 @@ export const doctors = [
     },
     {
         _id: 'doc7',
-        name: "Dr. Richard James",
+        name: "Dr. Mohamed Jeilani (Egypt)",
         img: doc7,
         speciality: 'Pediatricians',
         degree: 'MBBS',
@@ -161,7 +161,7 @@ export const doctors = [
     },
     {
         _id: 'doc8',
-        name: "Dr. Richard James",
+        name: "Dr. John Oluku (Nigeria) ",
         img: doc8,
         speciality: 'Pediatricians',
         degree: 'MBBS',
@@ -175,7 +175,7 @@ export const doctors = [
     },
     {
         _id: 'doc9',
-        name: "Dr. Richard James",
+        name: "Dr. Ahmed Tolba (Egypt)",
         img: doc9,
         speciality: 'Neurologist',
         degree: 'MBBS',
@@ -189,7 +189,7 @@ export const doctors = [
     },
     {
         _id: 'doc10',
-        name: "Dr. Richard James",
+        name: "Dr. Olufunmilayo Olopade (Nigeria)",
         img: doc10,
         speciality: 'Neurologist',
         degree: 'MBBS',
@@ -203,7 +203,7 @@ export const doctors = [
     },
     {
         _id: 'doc11',
-        name: "Dr. Richard James",
+        name: "Dr. Samuel Achilefu (Nigeria)",
         img: doc11,
         speciality: 'Neurologist',
         degree: 'MBBS',
@@ -217,7 +217,7 @@ export const doctors = [
     },
     {
         _id: 'doc12',
-        name: "Dr. Richard James",
+        name: "Dr. Akinwumi Adesina (Nigeria)",
         img: doc12,
         speciality: 'Dermatologist',
         degree: 'MBBS',
@@ -231,9 +231,9 @@ export const doctors = [
     },
     {
         _id: 'doc13',
-        name: "Dr. Richard James",
+        name: " Dr. Mandisa Maholwana (South Africa)",
         img: doc13,
-        speciality: 'Dermatologist',
+        speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -245,9 +245,9 @@ export const doctors = [
     },
     {
         _id: 'doc14',
-        name: "Dr. Richard James",
+        name: "Dr. Ahmed Abu-Zeid (Egypt)",
         img: doc14,
-        speciality: "Gastroenterologist",
+        speciality: "Gynecologist",
         degree: 'MBBS',
         experience: '4 Years',
         About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
@@ -259,8 +259,78 @@ export const doctors = [
     },
     {
         _id: 'doc15',
-        name: "Dr. Richard James",
+        name: " Dr. Femi Babalola (Nigeria)",
         img: doc15,
+        speciality: "Gastroenterologist",
+        degree: 'MBBS',
+        experience: '4 Years',
+        About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
+        fees: 40,
+        address:{
+            line1: '17th cross, Richmond',
+            line2: 'Circle, Ring Road, Abj'
+        }
+    },
+    {
+        _id: 'doc16',
+        name: "Dr. Belay Bezabih (Ethiopia)",
+        img: doc16,
+        speciality: 'Neurologist',
+        degree: 'MBBS',
+        experience: '4 Years',
+        About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
+        fees: 40,
+        address:{
+            line1: '17th cross, Richmond',
+            line2: 'Circle, Ring Road, Abj'
+        }
+    },
+    {
+        _id: 'doc17',
+        name: "Dr. Nadia Okashah (Egypt)",
+        img: doc17,
+        speciality: 'Dermatologist',
+        degree: 'MBBS',
+        experience: '4 Years',
+        About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
+        fees: 40,
+        address:{
+            line1: '17th cross, Richmond',
+            line2: 'Circle, Ring Road, Abj'
+        }
+    },
+    {
+        _id: 'doc18',
+        name: " Dr. Ifeanyi Nsofor (Nigeria)",
+        img: doc18,
+        speciality: 'Dermatologist',
+        degree: 'MBBS',
+        experience: '4 Years',
+        About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
+        fees: 40,
+        address:{
+            line1: '17th cross, Richmond',
+            line2: 'Circle, Ring Road, Abj'
+        }
+    },
+    {
+        _id: 'doc19',
+        name: "Dr. Yvonne Mburu (Kenya)",
+        img: doc19,
+        speciality: "Gastroenterologist",
+        degree: 'MBBS',
+        experience: '4 Years',
+        About: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, ',
+        fees: 40,
+        address:{
+            line1: '17th cross, Richmond',
+            line2: 'Circle, Ring Road, Abj'
+        }
+    },
+    {
+        _id: 'doc20',
+        name: "Dr. Richard James (Ghana)",
+        img: doc20,
         speciality: "Gastroenterologist",
         degree: 'MBBS',
         experience: '4 Years',

@@ -2,11 +2,11 @@ import React from 'react'
 import logo from '../assets/health-logo.jpeg'
 const Footer = () => {
   return (
-    <div className='md:mx-10 bg-blue-100 px-10 py-1'>
+    <div className='md:mx-10 bg-blue-100 px-10 py-1 mt-60'>
         <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-10 text-sm '>
 
 <div>
-    <img className='mb-5 w-20 bg-blue-100' src={logo} alt="" />
+    <img className='mb-5 w-8 bg-blue-100' src={logo} alt="" />
     <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, voluptas inventore? Ab rerum repudiandae aliquam sequi facilis repellendus mollitia vitae, modi quos fugiat at laborum nam.</p>
 </div>
 
